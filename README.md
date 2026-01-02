@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Hetuntuner">Puffer</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Hetuntuner">Puffer</a></h1>
 <h3 align="center">IoT Student @ SWPU | Java & Embedded AI Developer </h3>
 
 <div align="center">
