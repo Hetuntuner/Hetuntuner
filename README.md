@@ -71,9 +71,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hetuntuner&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=Hetuntuner&show_icons=true&locale=en&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hetuntuner&theme=dracula&hide_border=true" alt="streak" />
