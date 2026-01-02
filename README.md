@@ -1,30 +1,64 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=70&fontAlignY=40)
+<div align="center">
 
-### 👋 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3591F7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+a+Developer;IoT+%26+CV+Enthusiast+🚀;Coding+with+Java+%26+Python" alt="Typing SVG" />
 
-I am a Computer Science student at **Southwest Petroleum University**, passionate about connecting the physical world with code.
+<h3> 🎓 IoT Student @ SWPU | 🤖 Embedded AI Developer </h3>
 
-- 🔭 I’m currently working on **High-performance Embedded Vision (Hailo/RPi)**.
-- 📚 I’m currently learning **Advanced Linear Algebra & OS Kernels**.
-- 👯 I’m looking to collaborate on **Open Source IoT Projects**.
-- ⚡ Fun fact: I love Physics and solving Thermodynamics problems!
-
----
-
-### 💻 Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<p>
+  <em>"Talk is cheap. Show me the code."</em>
 </p>
 
+<p>
+<a href="mailto:你的邮箱@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://你的博客链接">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+</a>
+</p>
+
+</div>
+
 ---
 
-### 🔥 My Contribution Streak
+### 🛠️ **Tech Stack & Arsenal**
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hetuntuner&theme=dark&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
+
+---
+
+### 🚀 **Featured Projects**
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **🤖 Intelligent Trash Can** | `Raspberry Pi 5` `Hailo-8L` `YOLOv8` `PyQt` | 基于 AI 加速器的智能垃圾分类系统，工创赛项目。 |
+| **🏎️ Logistics Vehicle** | `OpenCV` `STM32` `Python` | 视觉导航智能物流小车，负责视觉识别算法。 |
+| **🚗 Car Rental System** | `Java` `Swing` `MySQL` | 包含继承多态设计的企业级车辆租赁管理系统。 |
+
+---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hetuntuner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetuntuner&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+
 </div>
