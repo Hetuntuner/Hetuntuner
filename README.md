@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Hetuntuner">Puffer>Pa></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Hetuntuner">Puffer</h1>
 <h3 align="center">IoT Student @ SWPU | Java & Embedded AI Developer </h3>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Embedded Systems, and Object-Oriented Design**.
 
-- 📫 How to reach me: **你的邮箱@qq.com**
+- 📫 How to reach me: **2991323733@qq.com**
 
 - ⚡ Fun fact: **I love Physics (Thermodynamics) & Coding!**
 
